@@ -1,0 +1,27 @@
+body {
+	background-color: rgb(255,0,128); 
+	color:#EDD9FC; 
+	font-family: Gabriola;
+	font-size: 35px;
+}
+
+h2{ 
+	background-color: rgb(255,0,128); 	
+	color:#7B18A7;
+	font-family:Times New Roman;
+	font-size: 30px;
+	
+}
+    h3{
+    background-color: rgb(255,0,128); 	
+	color:#FF5733;
+	font-family: Cambria;
+	font-size: 30px;
+}
+
+    h4{
+    background-color: rgb(255,0,128); 	
+    color:#00FFFF;
+    font-family: Arial;
+    font-size: 25px;
+}
